@@ -1,0 +1,12 @@
+{
+    "name": "Winterhawks",
+    "short_name": "Winterhawks",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Winterhawks low-latency live stream player.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": []
+}
