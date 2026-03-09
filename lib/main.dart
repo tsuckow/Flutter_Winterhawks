@@ -3,7 +3,7 @@ import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:just_audio/just_audio.dart';
 
-const String _streamUrl = 'https://tsuckow.com/stream.php';
+const String _streamUrl = 'https://winterhawks.codingwell.net/stream.php';
 
 /// Number of latency samples to keep for the rolling window.
 const int _defaultSampleCount = 10;
